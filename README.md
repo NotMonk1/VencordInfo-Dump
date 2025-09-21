@@ -5,8 +5,7 @@ a flash drive I found (from my friend) dumped into a GitHub repository because w
 2. **FOLLOW THE INSTRUCTIONS** IF YOU DONT YOU **MAY** MESS IT UP (``README.txt`` is **ALL** of the install instructions combined go to the folders ``Windoes Install`` or ``Linux Install``[MAC SOON...])
 3. Enjoy Vencord ig
  
- 
- 
+NOTE: I ONLY ADDED THIS TO GITHUB BECAUSE THE SERVER CONTAINING THIS IS **DEAD**
  
 ###### THIS REPOSITORY IS *NOT* AFFILIATED WITH DISCORD Inc. OR VENCORD
 ###### DISCORD IS A TRADEMARK OF DISCORD Inc. (https://discord.com)
